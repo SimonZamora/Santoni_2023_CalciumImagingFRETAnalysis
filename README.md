@@ -4,7 +4,7 @@
 
 Welcome!
 
-This repository contains the pipeline analysis used to analyse the FRET-CalciumImaging experiment in Santoni et al. 2024. 
+This repository contains the pipeline analysis used to analyze the FRET-CalciumImaging experiment in Santoni et al. 2024. 
 The pipeline consists of three Jupyter notebooks and one helpers.py file containing useful functions. It expects the file to be preprocessed (as discussed in the materials and methods). An example is presented here for the first biological replicates. 
 1a_ProcessingFRET: 
 -	Compute pixel by pixel the NFRET value and average over the whole detected ROI associated with each nucleus 
