@@ -1,5 +1,5 @@
 # Santoni_2023_CalciumImagingFRETAnalysis
-
+[![DOI](https://zenodo.org/badge/796674129.svg)](https://zenodo.org/doi/10.5281/zenodo.11125606)
 ![alt text](https://github.com/SimonZamora/Santoni_2023_CalciumImagingFRETAnalysis/blob/main/graphicalabstract.png?raw=true)
 
 Welcome!
